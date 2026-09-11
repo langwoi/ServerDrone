@@ -1,0 +1,338 @@
+Timestamp,Altitude,Pressure,Baterai
+"['ALT : 662.31 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 58.91 ', ' BATERAI : 99']", 662.31 , Tekanan Drone Tinggi Waspada! , 58.91 , 99,22:22:58
+"['ALT : 680.0 ', ' PRESSURE : 395.85 ', ' TEMP : 75.8 ', ' BATERAI : 98']", 680.0 , 395.85 , 75.8 , 98,22:22:58
+"['ALT : 577.89 ', ' PRESSURE : 185.74 ', ' TEMP : 21.52 ', ' BATERAI : 97']", 577.89 , 185.74 , 21.52 , 97,22:22:59
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 292.19 ', ' TEMP : 72.71 ', ' BATERAI : 96']", Waspada Ketinggian Anda Berbahaya , 292.19 , 72.71 , 96,22:22:59
+"['ALT : 306.87 ', ' PRESSURE : 381.42 ', ' TEMP : 29.85 ', ' BATERAI : 95']", 306.87 , 381.42 , 29.85 , 95,22:22:00
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 39.16 ', ' TEMP : 42.83 ', ' BATERAI : 94']", Waspada Ketinggian Anda Berbahaya , 39.16 , 42.83 , 94,22:22:00
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 25.93 ', ' BATERAI : 93']", Waspada Ketinggian Anda Berbahaya , Tekanan Drone Tinggi Waspada! , 25.93 , 93,22:22:01
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 78.69 ', ' BATERAI : 92']", Waspada Ketinggian Anda Berbahaya , Tekanan Drone Tinggi Waspada! , 78.69 , 92,22:22:01
+"['ALT : 630.24 ', ' PRESSURE : 190.08 ', ' TEMP : 6.41 ', ' BATERAI : 91']", 630.24 , 190.08 , 6.41 , 91,22:22:02
+"['ALT : 121.91 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 62.75 ', ' BATERAI : 90']", 121.91 , Tekanan Drone Tinggi Waspada! , 62.75 , 90,22:22:02
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 304.43 ', ' TEMP : 30.3 ', ' BATERAI : 89']", Waspada Ketinggian Anda Berbahaya , 304.43 , 30.3 , 89,22:22:03
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 266.83 ', ' TEMP : 81.25 ', ' BATERAI : 88']", Waspada Ketinggian Anda Berbahaya , 266.83 , 81.25 , 88,22:22:03
+"['ALT : 192.32 ', ' PRESSURE : 92.51 ', ' TEMP : 56.2 ', ' BATERAI : 87']", 192.32 , 92.51 , 56.2 , 87,22:22:04
+"['ALT : 548.93 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 80.72 ', ' BATERAI : 86']", 548.93 , Tekanan Drone Tinggi Waspada! , 80.72 , 86,22:22:04
+"['ALT : 536.86 ', ' PRESSURE : 122.25 ', ' TEMP : 74.83 ', ' BATERAI : 85']", 536.86 , 122.25 , 74.83 , 85,22:22:05
+"['ALT : 252.83 ', ' PRESSURE : 189.17 ', ' TEMP : 66.55 ', ' BATERAI : 84']", 252.83 , 189.17 , 66.55 , 84,22:22:05
+"['ALT : 680.66 ', ' PRESSURE : 321.86 ', ' TEMP : 14.82 ', ' BATERAI : 83']", 680.66 , 321.86 , 14.82 , 83,22:22:06
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 364.11 ', ' TEMP : 45.44 ', ' BATERAI : 82']", Waspada Ketinggian Anda Berbahaya , 364.11 , 45.44 , 82,22:22:06
+"['ALT : 221.27 ', ' PRESSURE : 310.49 ', ' TEMP : 60.97 ', ' BATERAI : 81']", 221.27 , 310.49 , 60.97 , 81,22:22:07
+"['ALT : 161.54 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 29.05 ', ' BATERAI : 80']", 161.54 , Tekanan Drone Tinggi Waspada! , 29.05 , 80,22:22:07
+"['ALT : 76.93 ', ' PRESSURE : 99.01 ', ' TEMP : 24.3 ', ' BATERAI : 79']", 76.93 , 99.01 , 24.3 , 79,22:22:08
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 28.81 ', ' BATERAI : 78']", Waspada Ketinggian Anda Berbahaya , Tekanan Drone Tinggi Waspada! , 28.81 , 78,22:22:08
+"['ALT : 268.66 ', ' PRESSURE : 89.4 ', ' TEMP : 13.9 ', ' BATERAI : 77']", 268.66 , 89.4 , 13.9 , 77,22:22:09
+"['ALT : 469.7 ', ' PRESSURE : 236.1 ', ' TEMP : 34.61 ', ' BATERAI : 76']", 469.7 , 236.1 , 34.61 , 76,22:22:09
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 124.12 ', ' TEMP : 55.86 ', ' BATERAI : 75']", Waspada Ketinggian Anda Berbahaya , 124.12 , 55.86 , 75,22:22:10
+"['ALT : 676.05 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 54.02 ', ' BATERAI : 74']", 676.05 , Tekanan Drone Tinggi Waspada! , 54.02 , 74,22:22:10
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 386.36 ', ' TEMP : 24.52 ', ' BATERAI : 73']", Waspada Ketinggian Anda Berbahaya , 386.36 , 24.52 , 73,22:22:11
+"['ALT : 639.37 ', ' PRESSURE : 180.63 ', ' TEMP : 43.41 ', ' BATERAI : 72']", 639.37 , 180.63 , 43.41 , 72,22:22:11
+"['ALT : 411.19 ', ' PRESSURE : 282.62 ', ' TEMP : 43.36 ', ' BATERAI : 71']", 411.19 , 282.62 , 43.36 , 71,22:22:12
+"['ALT : 68.3 ', ' PRESSURE : 396.98 ', ' TEMP : 60.87 ', ' BATERAI : 70']", 68.3 , 396.98 , 60.87 , 70,22:22:12
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 296.28 ', ' TEMP : 61.92 ', ' BATERAI : 69']", Waspada Ketinggian Anda Berbahaya , 296.28 , 61.92 , 69,22:22:13
+"['ALT : 675.75 ', ' PRESSURE : 42.06 ', ' TEMP : 84.36 ', ' BATERAI : 68']", 675.75 , 42.06 , 84.36 , 68,22:22:13
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 84.36 ', ' TEMP : 69.28 ', ' BATERAI : 67']", Waspada Ketinggian Anda Berbahaya , 84.36 , 69.28 , 67,22:22:14
+"['ALT : 628.79 ', ' PRESSURE : 324.92 ', ' TEMP : 2.48 ', ' BATERAI : 66']", 628.79 , 324.92 , 2.48 , 66,22:22:14
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 34.3 ', ' BATERAI : 65']", Waspada Ketinggian Anda Berbahaya , Tekanan Drone Tinggi Waspada! , 34.3 , 65,22:22:15
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 393.04 ', ' TEMP : 68.33 ', ' BATERAI : 64']", Waspada Ketinggian Anda Berbahaya , 393.04 , 68.33 , 64,22:22:15
+"['ALT : 59.35 ', ' PRESSURE : 56.8 ', ' TEMP : 64.75 ', ' BATERAI : 63']", 59.35 , 56.8 , 64.75 , 63,22:22:16
+"['ALT : 169.8 ', ' PRESSURE : 170.84 ', ' TEMP : 50.65 ', ' BATERAI : 62']", 169.8 , 170.84 , 50.65 , 62,22:22:16
+"['ALT : 377.76 ', ' PRESSURE : 342.14 ', ' TEMP : 36.98 ', ' BATERAI : 61']", 377.76 , 342.14 , 36.98 , 61,22:22:17
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 74.96 ', ' TEMP : 42.25 ', ' BATERAI : 60']", Waspada Ketinggian Anda Berbahaya , 74.96 , 42.25 , 60,22:22:17
+"['ALT : 428.83 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 31.76 ', ' BATERAI : 59']", 428.83 , Tekanan Drone Tinggi Waspada! , 31.76 , 59,22:22:18
+"['ALT : 36.13 ', ' PRESSURE : 116.38 ', ' TEMP : 29.78 ', ' BATERAI : 58']", 36.13 , 116.38 , 29.78 , 58,22:22:18
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 22.39 ', ' BATERAI : 57']", Waspada Ketinggian Anda Berbahaya , Tekanan Drone Tinggi Waspada! , 22.39 , 57,22:22:19
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 50.46 ', ' TEMP : 59.42 ', ' BATERAI : 56']", Waspada Ketinggian Anda Berbahaya , 50.46 , 59.42 , 56,22:22:19
+"['ALT : 88.53 ', ' PRESSURE : 73.72 ', ' TEMP : 59.21 ', ' BATERAI : 55']", 88.53 , 73.72 , 59.21 , 55,22:22:20
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 39.2 ', ' TEMP : 41.93 ', ' BATERAI : 54']", Waspada Ketinggian Anda Berbahaya , 39.2 , 41.93 , 54,22:22:20
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 89.89 ', ' BATERAI : 53']", Waspada Ketinggian Anda Berbahaya , Tekanan Drone Tinggi Waspada! , 89.89 , 53,22:22:21
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 65.38 ', ' TEMP : 69.81 ', ' BATERAI : 52']", Waspada Ketinggian Anda Berbahaya , 65.38 , 69.81 , 52,22:22:21
+"['ALT : 566.03 ', ' PRESSURE : 318.08 ', ' TEMP : 46.32 ', ' BATERAI : 51']", 566.03 , 318.08 , 46.32 , 51,22:22:22
+"['ALT : 267.03 ', ' PRESSURE : 206.29 ', ' TEMP : 77.95 ', ' BATERAI : 50']", 267.03 , 206.29 , 77.95 , 50,22:22:22
+"['ALT : 438.23 ', ' PRESSURE : 100.21 ', ' TEMP : 56.86 ', ' BATERAI : 49']", 438.23 , 100.21 , 56.86 , 49,22:22:23
+"['ALT : 42.9 ', ' PRESSURE : 90.71 ', ' TEMP : 30.2 ', ' BATERAI : 48']", 42.9 , 90.71 , 30.2 , 48,22:22:23
+"['ALT : 156.53 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 28.24 ', ' BATERAI : 47']", 156.53 , Tekanan Drone Tinggi Waspada! , 28.24 , 47,22:22:24
+"['ALT : 481.35 ', ' PRESSURE : 201.75 ', ' TEMP : 2.34 ', ' BATERAI : 46']", 481.35 , 201.75 , 2.34 , 46,22:22:24
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 375.68 ', ' TEMP : 22.37 ', ' BATERAI : 45']", Waspada Ketinggian Anda Berbahaya , 375.68 , 22.37 , 45,22:22:25
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 323.68 ', ' TEMP : 1.27 ', ' BATERAI : 44']", Waspada Ketinggian Anda Berbahaya , 323.68 , 1.27 , 44,22:22:25
+"['ALT : 639.22 ', ' PRESSURE : 259.79 ', ' TEMP : 47.43 ', ' BATERAI : 43']", 639.22 , 259.79 , 47.43 , 43,22:22:26
+"['ALT : 607.34 ', ' PRESSURE : 164.63 ', ' TEMP : 80.7 ', ' BATERAI : 42']", 607.34 , 164.63 , 80.7 , 42,22:22:26
+"['ALT : 116.08 ', ' PRESSURE : 66.21 ', ' TEMP : 81.58 ', ' BATERAI : 41']", 116.08 , 66.21 , 81.58 , 41,22:22:27
+"['ALT : 586.97 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 3.44 ', ' BATERAI : 40']", 586.97 , Tekanan Drone Tinggi Waspada! , 3.44 , 40,22:22:27
+"['ALT : 544.7 ', ' PRESSURE : 203.35 ', ' TEMP : 65.48 ', ' BATERAI : 39']", 544.7 , 203.35 , 65.48 , 39,22:22:28
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 68.05 ', ' BATERAI : 38']", Waspada Ketinggian Anda Berbahaya , Tekanan Drone Tinggi Waspada! , 68.05 , 38,22:22:28
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 16.25 ', ' TEMP : 58.42 ', ' BATERAI : 37']", Waspada Ketinggian Anda Berbahaya , 16.25 , 58.42 , 37,22:22:29
+"['ALT : 380.47 ', ' PRESSURE : 362.86 ', ' TEMP : 88.54 ', ' BATERAI : 36']", 380.47 , 362.86 , 88.54 , 36,22:22:29
+"['ALT : 213.86 ', ' PRESSURE : 171.79 ', ' TEMP : 80.69 ', ' BATERAI : 35']", 213.86 , 171.79 , 80.69 , 35,22:22:30
+"['ALT : 605.55 ', ' PRESSURE : 67.53 ', ' TEMP : 36.33 ', ' BATERAI : 34']", 605.55 , 67.53 , 36.33 , 34,22:22:30
+"['ALT : 442.1 ', ' PRESSURE : 342.1 ', ' TEMP : 19.81 ', ' BATERAI : 33']", 442.1 , 342.1 , 19.81 , 33,22:22:31
+"['ALT : 681.97 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 1.95 ', ' BATERAI : 32']", 681.97 , Tekanan Drone Tinggi Waspada! , 1.95 , 32,22:22:31
+"['ALT : 395.78 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 79.95 ', ' BATERAI : 31']", 395.78 , Tekanan Drone Tinggi Waspada! , 79.95 , 31,22:22:32
+"['ALT : 438.24 ', ' PRESSURE : 392.31 ', ' TEMP : 54.06 ', ' BATERAI : 30']", 438.24 , 392.31 , 54.06 , 30,22:22:32
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 13.93 ', ' TEMP : 38.68 ', ' BATERAI : 29']", Waspada Ketinggian Anda Berbahaya , 13.93 , 38.68 , 29,22:22:33
+"['ALT : 692.35 ', ' PRESSURE : 176.81 ', ' TEMP : 78.08 ', ' BATERAI : 28']", 692.35 , 176.81 , 78.08 , 28,22:22:33
+"['ALT : 580.12 ', ' PRESSURE : 387.2 ', ' TEMP : 42.49 ', ' BATERAI : 27']", 580.12 , 387.2 , 42.49 , 27,22:22:34
+"['ALT : 200.17 ', ' PRESSURE : 208.32 ', ' TEMP : 71.02 ', ' BATERAI : 26']", 200.17 , 208.32 , 71.02 , 26,22:22:34
+"['ALT : 687.47 ', ' PRESSURE : 301.82 ', ' TEMP : 6.89 ', ' BATERAI : 25']", 687.47 , 301.82 , 6.89 , 25,22:22:35
+"['ALT : 198.02 ', ' PRESSURE : 247.84 ', ' TEMP : 34.79 ', ' BATERAI : 24']", 198.02 , 247.84 , 34.79 , 24,22:22:35
+"['ALT : 68.21 ', ' PRESSURE : 129.76 ', ' TEMP : 44.94 ', ' BATERAI : 23']", 68.21 , 129.76 , 44.94 , 23,22:22:36
+"['ALT : 235.53 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 75.36 ', ' BATERAI : 22']", 235.53 , Tekanan Drone Tinggi Waspada! , 75.36 , 22,22:22:36
+"['ALT : 586.75 ', ' PRESSURE : 355.92 ', ' TEMP : 55.21 ', ' BATERAI : 21']", 586.75 , 355.92 , 55.21 , 21,22:22:37
+"['ALT : 618.37 ', ' PRESSURE : 185.17 ', ' TEMP : 22.16 ', ' BATERAI : 20']", 618.37 , 185.17 , 22.16 , 20,22:22:37
+"['ALT : 189.76 ', ' PRESSURE : 258.56 ', ' TEMP : 51.44 ', ' BATERAI : 19']", 189.76 , 258.56 , 51.44 , 19,22:22:38
+"['ALT : 365.86 ', ' PRESSURE : 174.32 ', ' TEMP : 85.5 ', ' BATERAI : 18']", 365.86 , 174.32 , 85.5 , 18,22:22:38
+"['ALT : 257.14 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 48.76 ', ' BATERAI : 17']", 257.14 , Tekanan Drone Tinggi Waspada! , 48.76 , 17,22:22:39
+"['ALT : 581.81 ', ' PRESSURE : 201.98 ', ' TEMP : 56.16 ', ' BATERAI : 16']", 581.81 , 201.98 , 56.16 , 16,22:22:39
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 61.57 ', ' BATERAI : 15']", Waspada Ketinggian Anda Berbahaya , Tekanan Drone Tinggi Waspada! , 61.57 , 15,22:22:40
+"['ALT : 153.16 ', ' PRESSURE : 383.07 ', ' TEMP : 1.03 ', ' BATERAI : 14']", 153.16 , 383.07 , 1.03 , 14,22:22:40
+"['ALT : 11.43 ', ' PRESSURE : 372.94 ', ' TEMP : 55.86 ', ' BATERAI : 13']", 11.43 , 372.94 , 55.86 , 13,22:22:41
+"['ALT : 667.19 ', ' PRESSURE : 73.47 ', ' TEMP : 47.5 ', ' BATERAI : 12']", 667.19 , 73.47 , 47.5 , 12,22:22:41
+"['ALT : 164.45 ', ' PRESSURE : 390.83 ', ' TEMP : 74.34 ', ' BATERAI : 11']", 164.45 , 390.83 , 74.34 , 11,22:22:42
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 7.58 ', ' TEMP : 17.18 ', ' BATERAI : 10']", Waspada Ketinggian Anda Berbahaya , 7.58 , 17.18 , 10,22:22:42
+"['ALT : 150.66 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 40.29 ', ' BATERAI : 9']", 150.66 , Tekanan Drone Tinggi Waspada! , 40.29 , 9,22:22:43
+"['ALT : 111.28 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 27.84 ', ' BATERAI : 8']", 111.28 , Tekanan Drone Tinggi Waspada! , 27.84 , 8,22:22:43
+"['ALT : 541.65 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 68.65 ', ' BATERAI : 7']", 541.65 , Tekanan Drone Tinggi Waspada! , 68.65 , 7,22:22:44
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 275.48 ', ' TEMP : 50.31 ', ' BATERAI : 6']", Waspada Ketinggian Anda Berbahaya , 275.48 , 50.31 , 6,22:22:44
+"['ALT : 208.14 ', ' PRESSURE : Tekanan Drone Tinggi Waspada! ', ' TEMP : 81.72 ', ' BATERAI : 5']", 208.14 , Tekanan Drone Tinggi Waspada! , 81.72 , 5,22:22:45
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 299.34 ', ' TEMP : 28.56 ', ' BATERAI : 4']", Waspada Ketinggian Anda Berbahaya , 299.34 , 28.56 , 4,22:22:45
+"['ALT : 206.26 ', ' PRESSURE : 298.02 ', ' TEMP : 89.02 ', ' BATERAI : 3']", 206.26 , 298.02 , 89.02 , 3,22:22:46
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 41.9 ', ' TEMP : 63.2 ', ' BATERAI : 2']", Waspada Ketinggian Anda Berbahaya , 41.9 , 63.2 , 2,22:22:46
+"['ALT : Waspada Ketinggian Anda Berbahaya ', ' PRESSURE : 86.44 ', ' TEMP : 33.85 ', ' BATERAI : 1']", Waspada Ketinggian Anda Berbahaya , 86.44 , 33.85 , 1,22:22:47
+Timestamp,Altitude,Pressure,Baterai
+Timestamp,Altitude,Pressure,Baterai
+"['ALT : 121.04 ', ' PRESSURE : 101.01 ', ' TEMP : 26.19 ', ' BATERAI : 99']", 121.04 , 101.01 , 26.19 , 99,22:22:46
+"['ALT : 83.92 ', ' PRESSURE : 268.22 ', ' TEMP : 61.69 ', ' BATERAI : 98']", 83.92 , 268.22 , 61.69 , 98,22:22:46
+"['ALT : 61.89 ', ' PRESSURE : ERORRRR ', ' TEMP : 32.18 ', ' BATERAI : 97']", 61.89 , ERORRRR , 32.18 , 97,22:22:47
+"['ALT : 127.09 ', ' PRESSURE : 38.67 ', ' TEMP : 44.35 ', ' BATERAI : 96']", 127.09 , 38.67 , 44.35 , 96,22:22:47
+"['ALT : ERORRR ', ' PRESSURE : 318.23 ', ' TEMP : 58.29 ', ' BATERAI : 95']", ERORRR , 318.23 , 58.29 , 95,22:22:48
+"['ALT : 185.33 ', ' PRESSURE : 29.95 ', ' TEMP : 51.13 ', ' BATERAI : 94']", 185.33 , 29.95 , 51.13 , 94,22:22:48
+"['ALT : 690.83 ', ' PRESSURE : 70.86 ', ' TEMP : 11.62 ', ' BATERAI : 93']", 690.83 , 70.86 , 11.62 , 93,22:22:49
+"['ALT : ERORRR ', ' PRESSURE : 219.62 ', ' TEMP : 13.49 ', ' BATERAI : 92']", ERORRR , 219.62 , 13.49 , 92,22:22:49
+"['ALT : 210.8 ', ' PRESSURE : 149.67 ', ' TEMP : 60.46 ', ' BATERAI : 91']", 210.8 , 149.67 , 60.46 , 91,22:22:50
+"['ALT : 49.13 ', ' PRESSURE : 187.84 ', ' TEMP : 28.05 ', ' BATERAI : 90']", 49.13 , 187.84 , 28.05 , 90,22:22:50
+"['ALT : 162.03 ', ' PRESSURE : 24.73 ', ' TEMP : 76.55 ', ' BATERAI : 89']", 162.03 , 24.73 , 76.55 , 89,22:22:51
+"['ALT : 394.99 ', ' PRESSURE : 262.39 ', ' TEMP : 5.99 ', ' BATERAI : 88']", 394.99 , 262.39 , 5.99 , 88,22:22:51
+"['ALT : 30.75 ', ' PRESSURE : 52.38 ', ' TEMP : 7.16 ', ' BATERAI : 87']", 30.75 , 52.38 , 7.16 , 87,22:22:52
+"['ALT : 23.03 ', ' PRESSURE : 16.52 ', ' TEMP : 6.25 ', ' BATERAI : 86']", 23.03 , 16.52 , 6.25 , 86,22:22:52
+"['ALT : 384.27 ', ' PRESSURE : 2.81 ', ' TEMP : 52.78 ', ' BATERAI : 85']", 384.27 , 2.81 , 52.78 , 85,22:22:53
+"['ALT : 163.07 ', ' PRESSURE : ERORRRR ', ' TEMP : 20.92 ', ' BATERAI : 84']", 163.07 , ERORRRR , 20.92 , 84,22:22:53
+"['ALT : 445.04 ', ' PRESSURE : 325.9 ', ' TEMP : 54.1 ', ' BATERAI : 83']", 445.04 , 325.9 , 54.1 , 83,22:22:54
+"['ALT : 61.8 ', ' PRESSURE : 139.06 ', ' TEMP : 69.87 ', ' BATERAI : 82']", 61.8 , 139.06 , 69.87 , 82,22:22:54
+"['ALT : 541.04 ', ' PRESSURE : 258.04 ', ' TEMP : 75.24 ', ' BATERAI : 81']", 541.04 , 258.04 , 75.24 , 81,22:22:55
+"['ALT : 155.91 ', ' PRESSURE : 116.44 ', ' TEMP : 82.06 ', ' BATERAI : 80']", 155.91 , 116.44 , 82.06 , 80,22:22:55
+"['ALT : 465.28 ', ' PRESSURE : ERORRRR ', ' TEMP : 77.85 ', ' BATERAI : 79']", 465.28 , ERORRRR , 77.85 , 79,22:22:56
+"['ALT : ERORRR ', ' PRESSURE : 267.42 ', ' TEMP : 71.12 ', ' BATERAI : 78']", ERORRR , 267.42 , 71.12 , 78,22:22:56
+"['ALT : ERORRR ', ' PRESSURE : ERORRRR ', ' TEMP : 24.55 ', ' BATERAI : 77']", ERORRR , ERORRRR , 24.55 , 77,22:22:57
+"['ALT : 597.43 ', ' PRESSURE : ERORRRR ', ' TEMP : 6.1 ', ' BATERAI : 76']", 597.43 , ERORRRR , 6.1 , 76,22:22:57
+"['ALT : 503.22 ', ' PRESSURE : ERORRRR ', ' TEMP : 24.71 ', ' BATERAI : 75']", 503.22 , ERORRRR , 24.71 , 75,22:22:58
+"['ALT : 31.0 ', ' PRESSURE : 260.55 ', ' TEMP : 79.1 ', ' BATERAI : 74']", 31.0 , 260.55 , 79.1 , 74,22:22:58
+"['ALT : 51.35 ', ' PRESSURE : 331.62 ', ' TEMP : 85.05 ', ' BATERAI : 73']", 51.35 , 331.62 , 85.05 , 73,22:22:59
+"['ALT : 48.64 ', ' PRESSURE : 351.78 ', ' TEMP : 57.24 ', ' BATERAI : 72']", 48.64 , 351.78 , 57.24 , 72,22:22:59
+"['ALT : 275.24 ', ' PRESSURE : 238.16 ', ' TEMP : 89.86 ', ' BATERAI : 71']", 275.24 , 238.16 , 89.86 , 71,22:22:00
+"['ALT : 258.41 ', ' PRESSURE : ERORRRR ', ' TEMP : 89.65 ', ' BATERAI : 70']", 258.41 , ERORRRR , 89.65 , 70,22:22:00
+"['ALT : 397.63 ', ' PRESSURE : 145.62 ', ' TEMP : 59.26 ', ' BATERAI : 69']", 397.63 , 145.62 , 59.26 , 69,22:22:01
+"['ALT : 351.37 ', ' PRESSURE : 279.14 ', ' TEMP : 44.25 ', ' BATERAI : 68']", 351.37 , 279.14 , 44.25 , 68,22:22:01
+"['ALT : ERORRR ', ' PRESSURE : 173.78 ', ' TEMP : 63.43 ', ' BATERAI : 67']", ERORRR , 173.78 , 63.43 , 67,22:22:02
+"['ALT : 79.18 ', ' PRESSURE : ERORRRR ', ' TEMP : 68.86 ', ' BATERAI : 66']", 79.18 , ERORRRR , 68.86 , 66,22:22:02
+"['ALT : 67.03 ', ' PRESSURE : 331.03 ', ' TEMP : 0.09 ', ' BATERAI : 65']", 67.03 , 331.03 , 0.09 , 65,22:22:03
+"['ALT : 484.59 ', ' PRESSURE : 254.67 ', ' TEMP : 37.81 ', ' BATERAI : 64']", 484.59 , 254.67 , 37.81 , 64,22:22:03
+"['ALT : 379.76 ', ' PRESSURE : 206.24 ', ' TEMP : 64.81 ', ' BATERAI : 63']", 379.76 , 206.24 , 64.81 , 63,22:22:04
+"['ALT : 252.62 ', ' PRESSURE : 391.6 ', ' TEMP : 23.67 ', ' BATERAI : 62']", 252.62 , 391.6 , 23.67 , 62,22:22:04
+"['ALT : 205.95 ', ' PRESSURE : 76.0 ', ' TEMP : 25.71 ', ' BATERAI : 61']", 205.95 , 76.0 , 25.71 , 61,22:22:05
+"['ALT : 277.34 ', ' PRESSURE : 102.32 ', ' TEMP : 78.21 ', ' BATERAI : 60']", 277.34 , 102.32 , 78.21 , 60,22:22:05
+"['ALT : 477.74 ', ' PRESSURE : 240.51 ', ' TEMP : 40.97 ', ' BATERAI : 59']", 477.74 , 240.51 , 40.97 , 59,22:22:06
+"['ALT : 344.56 ', ' PRESSURE : 38.47 ', ' TEMP : 28.15 ', ' BATERAI : 58']", 344.56 , 38.47 , 28.15 , 58,22:22:06
+"['ALT : 231.62 ', ' PRESSURE : 342.05 ', ' TEMP : 57.02 ', ' BATERAI : 57']", 231.62 , 342.05 , 57.02 , 57,22:22:07
+"['ALT : 27.91 ', ' PRESSURE : 322.13 ', ' TEMP : 23.07 ', ' BATERAI : 56']", 27.91 , 322.13 , 23.07 , 56,22:22:07
+"['ALT : 77.36 ', ' PRESSURE : 240.96 ', ' TEMP : 71.58 ', ' BATERAI : 55']", 77.36 , 240.96 , 71.58 , 55,22:22:08
+"['ALT : ERORRR ', ' PRESSURE : 320.75 ', ' TEMP : 59.06 ', ' BATERAI : 54']", ERORRR , 320.75 , 59.06 , 54,22:22:08
+"['ALT : 118.09 ', ' PRESSURE : 84.95 ', ' TEMP : 17.8 ', ' BATERAI : 53']", 118.09 , 84.95 , 17.8 , 53,22:22:09
+"['ALT : 364.1 ', ' PRESSURE : 118.77 ', ' TEMP : 61.84 ', ' BATERAI : 52']", 364.1 , 118.77 , 61.84 , 52,22:22:09
+"['ALT : 460.97 ', ' PRESSURE : 189.57 ', ' TEMP : 4.05 ', ' BATERAI : 51']", 460.97 , 189.57 , 4.05 , 51,22:22:10
+"['ALT : 72.13 ', ' PRESSURE : 136.03 ', ' TEMP : 29.41 ', ' BATERAI : 50']", 72.13 , 136.03 , 29.41 , 50,22:22:10
+"['ALT : ERORRR ', ' PRESSURE : 147.52 ', ' TEMP : 23.45 ', ' BATERAI : 49']", ERORRR , 147.52 , 23.45 , 49,22:22:11
+"['ALT : 635.94 ', ' PRESSURE : ERORRRR ', ' TEMP : 19.87 ', ' BATERAI : 48']", 635.94 , ERORRRR , 19.87 , 48,22:22:11
+"['ALT : 193.36 ', ' PRESSURE : 374.93 ', ' TEMP : 35.85 ', ' BATERAI : 47']", 193.36 , 374.93 , 35.85 , 47,22:22:12
+"['ALT : 206.65 ', ' PRESSURE : 36.22 ', ' TEMP : 19.35 ', ' BATERAI : 46']", 206.65 , 36.22 , 19.35 , 46,22:22:12
+"['ALT : 46.7 ', ' PRESSURE : 220.09 ', ' TEMP : 87.46 ', ' BATERAI : 45']", 46.7 , 220.09 , 87.46 , 45,22:22:13
+"['ALT : 0.61 ', ' PRESSURE : ERORRRR ', ' TEMP : 75.56 ', ' BATERAI : 44']", 0.61 , ERORRRR , 75.56 , 44,22:22:13
+"['ALT : 125.49 ', ' PRESSURE : 142.01 ', ' TEMP : 60.2 ', ' BATERAI : 43']", 125.49 , 142.01 , 60.2 , 43,22:22:14
+"['ALT : 532.09 ', ' PRESSURE : 133.23 ', ' TEMP : 74.92 ', ' BATERAI : 42']", 532.09 , 133.23 , 74.92 , 42,22:22:14
+"['ALT : 685.1 ', ' PRESSURE : 152.63 ', ' TEMP : 66.35 ', ' BATERAI : 41']", 685.1 , 152.63 , 66.35 , 41,22:22:15
+"['ALT : ERORRR ', ' PRESSURE : 3.57 ', ' TEMP : 19.04 ', ' BATERAI : 40']", ERORRR , 3.57 , 19.04 , 40,22:22:15
+"['ALT : 496.8 ', ' PRESSURE : 118.03 ', ' TEMP : 15.85 ', ' BATERAI : 39']", 496.8 , 118.03 , 15.85 , 39,22:22:16
+"['ALT : 531.03 ', ' PRESSURE : 215.25 ', ' TEMP : 24.29 ', ' BATERAI : 38']", 531.03 , 215.25 , 24.29 , 38,22:22:16
+"['ALT : 48.08 ', ' PRESSURE : 9.6 ', ' TEMP : 26.43 ', ' BATERAI : 37']", 48.08 , 9.6 , 26.43 , 37,22:22:17
+"['ALT : 474.57 ', ' PRESSURE : 227.83 ', ' TEMP : 24.79 ', ' BATERAI : 36']", 474.57 , 227.83 , 24.79 , 36,22:22:17
+"['ALT : ERORRR ', ' PRESSURE : ERORRRR ', ' TEMP : 57.27 ', ' BATERAI : 35']", ERORRR , ERORRRR , 57.27 , 35,22:22:18
+"['ALT : 33.92 ', ' PRESSURE : 379.41 ', ' TEMP : 82.26 ', ' BATERAI : 34']", 33.92 , 379.41 , 82.26 , 34,22:22:18
+"['ALT : 267.99 ', ' PRESSURE : ERORRRR ', ' TEMP : 36.09 ', ' BATERAI : 33']", 267.99 , ERORRRR , 36.09 , 33,22:22:19
+"['ALT : 439.51 ', ' PRESSURE : 243.42 ', ' TEMP : 8.17 ', ' BATERAI : 32']", 439.51 , 243.42 , 8.17 , 32,22:22:19
+"['ALT : 112.53 ', ' PRESSURE : 96.45 ', ' TEMP : 59.12 ', ' BATERAI : 31']", 112.53 , 96.45 , 59.12 , 31,22:22:20
+"['ALT : 498.67 ', ' PRESSURE : 165.45 ', ' TEMP : 83.95 ', ' BATERAI : 30']", 498.67 , 165.45 , 83.95 , 30,22:22:20
+"['ALT : 384.75 ', ' PRESSURE : 349.78 ', ' TEMP : 2.98 ', ' BATERAI : 29']", 384.75 , 349.78 , 2.98 , 29,22:22:21
+"['ALT : 498.52 ', ' PRESSURE : 118.5 ', ' TEMP : 9.11 ', ' BATERAI : 28']", 498.52 , 118.5 , 9.11 , 28,22:22:21
+"['ALT : 97.25 ', ' PRESSURE : 44.86 ', ' TEMP : 43.37 ', ' BATERAI : 27']", 97.25 , 44.86 , 43.37 , 27,22:22:22
+"['ALT : 513.75 ', ' PRESSURE : ERORRRR ', ' TEMP : 15.12 ', ' BATERAI : 26']", 513.75 , ERORRRR , 15.12 , 26,22:22:22
+"['ALT : 355.04 ', ' PRESSURE : 302.3 ', ' TEMP : 83.66 ', ' BATERAI : 25']", 355.04 , 302.3 , 83.66 , 25,22:22:23
+"['ALT : 497.75 ', ' PRESSURE : 251.91 ', ' TEMP : 36.74 ', ' BATERAI : 24']", 497.75 , 251.91 , 36.74 , 24,22:22:23
+"['ALT : 456.17 ', ' PRESSURE : 110.49 ', ' TEMP : 44.05 ', ' BATERAI : 23']", 456.17 , 110.49 , 44.05 , 23,22:22:24
+"['ALT : 506.29 ', ' PRESSURE : 232.81 ', ' TEMP : 29.48 ', ' BATERAI : 22']", 506.29 , 232.81 , 29.48 , 22,22:22:24
+"['ALT : 151.2 ', ' PRESSURE : 30.07 ', ' TEMP : 0.24 ', ' BATERAI : 21']", 151.2 , 30.07 , 0.24 , 21,22:22:25
+"['ALT : 329.41 ', ' PRESSURE : ERORRRR ', ' TEMP : 48.29 ', ' BATERAI : 20']", 329.41 , ERORRRR , 48.29 , 20,22:22:25
+"['ALT : 157.15 ', ' PRESSURE : 309.63 ', ' TEMP : 84.38 ', ' BATERAI : 19']", 157.15 , 309.63 , 84.38 , 19,22:22:26
+"['ALT : 678.71 ', ' PRESSURE : 353.03 ', ' TEMP : 14.23 ', ' BATERAI : 18']", 678.71 , 353.03 , 14.23 , 18,22:22:26
+"['ALT : ERORRR ', ' PRESSURE : 283.27 ', ' TEMP : 34.23 ', ' BATERAI : 17']", ERORRR , 283.27 , 34.23 , 17,22:22:27
+"['ALT : 414.22 ', ' PRESSURE : 102.45 ', ' TEMP : 57.1 ', ' BATERAI : 16']", 414.22 , 102.45 , 57.1 , 16,22:22:27
+"['ALT : ERORRR ', ' PRESSURE : 373.61 ', ' TEMP : 72.98 ', ' BATERAI : 15']", ERORRR , 373.61 , 72.98 , 15,22:22:28
+"['ALT : ERORRR ', ' PRESSURE : ERORRRR ', ' TEMP : 48.27 ', ' BATERAI : 14']", ERORRR , ERORRRR , 48.27 , 14,22:22:28
+"['ALT : 422.35 ', ' PRESSURE : 303.21 ', ' TEMP : 26.82 ', ' BATERAI : 13']", 422.35 , 303.21 , 26.82 , 13,22:22:29
+"['ALT : ERORRR ', ' PRESSURE : 242.1 ', ' TEMP : 77.14 ', ' BATERAI : 12']", ERORRR , 242.1 , 77.14 , 12,22:22:29
+"['ALT : 178.14 ', ' PRESSURE : 307.85 ', ' TEMP : 63.22 ', ' BATERAI : 11']", 178.14 , 307.85 , 63.22 , 11,22:22:30
+"['ALT : 32.63 ', ' PRESSURE : 299.38 ', ' TEMP : 3.72 ', ' BATERAI : 10']", 32.63 , 299.38 , 3.72 , 10,22:22:30
+"['ALT : 631.35 ', ' PRESSURE : 329.64 ', ' TEMP : 37.55 ', ' BATERAI : 9']", 631.35 , 329.64 , 37.55 , 9,22:22:31
+"['ALT : 548.35 ', ' PRESSURE : ERORRRR ', ' TEMP : 27.28 ', ' BATERAI : 8']", 548.35 , ERORRRR , 27.28 , 8,22:22:31
+"['ALT : 414.92 ', ' PRESSURE : 251.07 ', ' TEMP : 67.79 ', ' BATERAI : 7']", 414.92 , 251.07 , 67.79 , 7,22:22:32
+"['ALT : 647.41 ', ' PRESSURE : 23.65 ', ' TEMP : 67.0 ', ' BATERAI : 6']", 647.41 , 23.65 , 67.0 , 6,22:22:32
+"['ALT : 529.33 ', ' PRESSURE : ERORRRR ', ' TEMP : 85.46 ', ' BATERAI : 5']", 529.33 , ERORRRR , 85.46 , 5,22:22:33
+"['ALT : 196.11 ', ' PRESSURE : 56.53 ', ' TEMP : 38.11 ', ' BATERAI : 4']", 196.11 , 56.53 , 38.11 , 4,22:22:33
+"['ALT : ERORRR ', ' PRESSURE : ERORRRR ', ' TEMP : 23.44 ', ' BATERAI : 3']", ERORRR , ERORRRR , 23.44 , 3,22:22:34
+"['ALT : 473.83 ', ' PRESSURE : ERORRRR ', ' TEMP : 38.32 ', ' BATERAI : 2']", 473.83 , ERORRRR , 38.32 , 2,22:22:34
+"['ALT : 197.63 ', ' PRESSURE : 278.23 ', ' TEMP : 19.58 ', ' BATERAI : 1']", 197.63 , 278.23 , 19.58 , 1,22:22:35
+Timestamp,Altitude,Pressure,Baterai
+"['ALT : 552.17 ', ' PRESSURE : 223.97 ', ' TEMP : 7.87 ', ' BATERAI : 99']", 552.17 , 223.97 , 7.87 , 99,22:22:25
+"['ALT : 49.84 ', ' PRESSURE : 2.99 ', ' TEMP : 76.62 ', ' BATERAI : 98']", 49.84 , 2.99 , 76.62 , 98,22:22:25
+"['ALT : 253.02 ', ' PRESSURE : ERORRRR ', ' TEMP : 58.51 ', ' BATERAI : 97']", 253.02 , ERORRRR , 58.51 , 97,22:22:26
+"['ALT : ERORRR ', ' PRESSURE : 369.69 ', ' TEMP : 36.7 ', ' BATERAI : 96']", ERORRR , 369.69 , 36.7 , 96,22:22:26
+"['ALT : 266.78 ', ' PRESSURE : ERORRRR ', ' TEMP : 46.52 ', ' BATERAI : 95']", 266.78 , ERORRRR , 46.52 , 95,22:22:27
+"['ALT : 122.61 ', ' PRESSURE : 61.99 ', ' TEMP : 35.37 ', ' BATERAI : 94']", 122.61 , 61.99 , 35.37 , 94,22:22:27
+"['ALT : 621.56 ', ' PRESSURE : 49.76 ', ' TEMP : 64.19 ', ' BATERAI : 93']", 621.56 , 49.76 , 64.19 , 93,22:22:28
+"['ALT : 632.34 ', ' PRESSURE : 265.53 ', ' TEMP : 55.04 ', ' BATERAI : 92']", 632.34 , 265.53 , 55.04 , 92,22:22:28
+"['ALT : 415.66 ', ' PRESSURE : 303.67 ', ' TEMP : 55.38 ', ' BATERAI : 91']", 415.66 , 303.67 , 55.38 , 91,22:22:29
+"['ALT : 150.29 ', ' PRESSURE : 267.84 ', ' TEMP : 27.9 ', ' BATERAI : 90']", 150.29 , 267.84 , 27.9 , 90,22:22:29
+"['ALT : 35.54 ', ' PRESSURE : 344.21 ', ' TEMP : 84.17 ', ' BATERAI : 89']", 35.54 , 344.21 , 84.17 , 89,22:22:30
+"['ALT : ERORRR ', ' PRESSURE : 145.58 ', ' TEMP : 68.45 ', ' BATERAI : 88']", ERORRR , 145.58 , 68.45 , 88,22:22:30
+"['ALT : 546.66 ', ' PRESSURE : ERORRRR ', ' TEMP : 32.66 ', ' BATERAI : 87']", 546.66 , ERORRRR , 32.66 , 87,22:22:31
+"['ALT : ERORRR ', ' PRESSURE : 227.77 ', ' TEMP : 71.25 ', ' BATERAI : 86']", ERORRR , 227.77 , 71.25 , 86,22:22:31
+"['ALT : 423.18 ', ' PRESSURE : ERORRRR ', ' TEMP : 64.81 ', ' BATERAI : 85']", 423.18 , ERORRRR , 64.81 , 85,22:22:32
+"['ALT : 267.82 ', ' PRESSURE : 347.53 ', ' TEMP : 24.66 ', ' BATERAI : 84']", 267.82 , 347.53 , 24.66 , 84,22:22:32
+"['ALT : 248.69 ', ' PRESSURE : ERORRRR ', ' TEMP : 11.97 ', ' BATERAI : 83']", 248.69 , ERORRRR , 11.97 , 83,22:22:33
+"['ALT : 620.53 ', ' PRESSURE : 159.48 ', ' TEMP : 10.76 ', ' BATERAI : 82']", 620.53 , 159.48 , 10.76 , 82,22:22:33
+"['ALT : 43.95 ', ' PRESSURE : 341.96 ', ' TEMP : 50.19 ', ' BATERAI : 81']", 43.95 , 341.96 , 50.19 , 81,22:22:34
+"['ALT : 625.43 ', ' PRESSURE : 347.49 ', ' TEMP : 8.63 ', ' BATERAI : 80']", 625.43 , 347.49 , 8.63 , 80,22:22:34
+"['ALT : 199.08 ', ' PRESSURE : ERORRRR ', ' TEMP : 83.92 ', ' BATERAI : 79']", 199.08 , ERORRRR , 83.92 , 79,22:22:35
+"['ALT : 537.95 ', ' PRESSURE : 377.57 ', ' TEMP : 12.78 ', ' BATERAI : 78']", 537.95 , 377.57 , 12.78 , 78,22:22:35
+"['ALT : 268.36 ', ' PRESSURE : 334.3 ', ' TEMP : 11.43 ', ' BATERAI : 77']", 268.36 , 334.3 , 11.43 , 77,22:22:36
+"['ALT : 327.31 ', ' PRESSURE : 328.43 ', ' TEMP : 9.18 ', ' BATERAI : 76']", 327.31 , 328.43 , 9.18 , 76,22:22:36
+"['ALT : 694.69 ', ' PRESSURE : ERORRRR ', ' TEMP : 57.49 ', ' BATERAI : 75']", 694.69 , ERORRRR , 57.49 , 75,22:22:37
+"['ALT : ERORRR ', ' PRESSURE : ERORRRR ', ' TEMP : 19.02 ', ' BATERAI : 74']", ERORRR , ERORRRR , 19.02 , 74,22:22:37
+"['ALT : 31.19 ', ' PRESSURE : 42.04 ', ' TEMP : 77.48 ', ' BATERAI : 73']", 31.19 , 42.04 , 77.48 , 73,22:22:38
+"['ALT : ERORRR ', ' PRESSURE : 252.53 ', ' TEMP : 58.4 ', ' BATERAI : 72']", ERORRR , 252.53 , 58.4 , 72,22:22:38
+"['ALT : 495.68 ', ' PRESSURE : 210.62 ', ' TEMP : 63.74 ', ' BATERAI : 71']", 495.68 , 210.62 , 63.74 , 71,22:22:39
+"['ALT : 202.29 ', ' PRESSURE : 79.16 ', ' TEMP : 15.03 ', ' BATERAI : 70']", 202.29 , 79.16 , 15.03 , 70,22:22:39
+"['ALT : 390.75 ', ' PRESSURE : 185.42 ', ' TEMP : 30.56 ', ' BATERAI : 69']", 390.75 , 185.42 , 30.56 , 69,22:22:40
+"['ALT : 470.19 ', ' PRESSURE : 337.38 ', ' TEMP : 64.29 ', ' BATERAI : 68']", 470.19 , 337.38 , 64.29 , 68,22:22:40
+"['ALT : 78.38 ', ' PRESSURE : ERORRRR ', ' TEMP : 21.73 ', ' BATERAI : 67']", 78.38 , ERORRRR , 21.73 , 67,22:22:41
+"['ALT : ERORRR ', ' PRESSURE : 329.01 ', ' TEMP : 86.75 ', ' BATERAI : 66']", ERORRR , 329.01 , 86.75 , 66,22:22:41
+"['ALT : 606.3 ', ' PRESSURE : ERORRRR ', ' TEMP : 58.72 ', ' BATERAI : 65']", 606.3 , ERORRRR , 58.72 , 65,22:22:42
+"['ALT : 259.92 ', ' PRESSURE : 385.01 ', ' TEMP : 19.95 ', ' BATERAI : 64']", 259.92 , 385.01 , 19.95 , 64,22:22:42
+"['ALT : 10.66 ', ' PRESSURE : 272.19 ', ' TEMP : 71.29 ', ' BATERAI : 63']", 10.66 , 272.19 , 71.29 , 63,22:22:43
+"['ALT : ERORRR ', ' PRESSURE : 150.73 ', ' TEMP : 34.88 ', ' BATERAI : 62']", ERORRR , 150.73 , 34.88 , 62,22:22:43
+"['ALT : 444.94 ', ' PRESSURE : ERORRRR ', ' TEMP : 11.2 ', ' BATERAI : 61']", 444.94 , ERORRRR , 11.2 , 61,22:22:44
+"['ALT : 479.33 ', ' PRESSURE : 294.25 ', ' TEMP : 3.01 ', ' BATERAI : 60']", 479.33 , 294.25 , 3.01 , 60,22:22:44
+"['ALT : 577.07 ', ' PRESSURE : 189.89 ', ' TEMP : 79.69 ', ' BATERAI : 59']", 577.07 , 189.89 , 79.69 , 59,22:22:45
+"['ALT : 142.97 ', ' PRESSURE : ERORRRR ', ' TEMP : 28.85 ', ' BATERAI : 58']", 142.97 , ERORRRR , 28.85 , 58,22:22:45
+"['ALT : 392.84 ', ' PRESSURE : 176.47 ', ' TEMP : 89.53 ', ' BATERAI : 57']", 392.84 , 176.47 , 89.53 , 57,22:22:46
+"['ALT : 287.87 ', ' PRESSURE : 358.84 ', ' TEMP : 20.26 ', ' BATERAI : 56']", 287.87 , 358.84 , 20.26 , 56,22:22:46
+"['ALT : ERORRR ', ' PRESSURE : 342.98 ', ' TEMP : 20.08 ', ' BATERAI : 55']", ERORRR , 342.98 , 20.08 , 55,22:22:47
+"['ALT : 373.02 ', ' PRESSURE : 276.22 ', ' TEMP : 76.15 ', ' BATERAI : 54']", 373.02 , 276.22 , 76.15 , 54,22:22:47
+"['ALT : 364.85 ', ' PRESSURE : 239.46 ', ' TEMP : 41.3 ', ' BATERAI : 53']", 364.85 , 239.46 , 41.3 , 53,22:22:48
+"['ALT : 2.4 ', ' PRESSURE : ERORRRR ', ' TEMP : 11.43 ', ' BATERAI : 52']", 2.4 , ERORRRR , 11.43 , 52,22:22:48
+"['ALT : 98.05 ', ' PRESSURE : 136.65 ', ' TEMP : 0.3 ', ' BATERAI : 51']", 98.05 , 136.65 , 0.3 , 51,22:22:49
+"['ALT : 284.68 ', ' PRESSURE : 65.12 ', ' TEMP : 80.77 ', ' BATERAI : 50']", 284.68 , 65.12 , 80.77 , 50,22:22:49
+"['ALT : 272.11 ', ' PRESSURE : 242.78 ', ' TEMP : 8.48 ', ' BATERAI : 49']", 272.11 , 242.78 , 8.48 , 49,22:22:50
+"['ALT : 18.49 ', ' PRESSURE : 153.75 ', ' TEMP : 15.86 ', ' BATERAI : 48']", 18.49 , 153.75 , 15.86 , 48,22:22:50
+"['ALT : 365.61 ', ' PRESSURE : 208.67 ', ' TEMP : 63.31 ', ' BATERAI : 47']", 365.61 , 208.67 , 63.31 , 47,22:22:51
+"['ALT : 72.78 ', ' PRESSURE : 104.46 ', ' TEMP : 75.14 ', ' BATERAI : 46']", 72.78 , 104.46 , 75.14 , 46,22:22:51
+"['ALT : 97.4 ', ' PRESSURE : 318.79 ', ' TEMP : 14.11 ', ' BATERAI : 45']", 97.4 , 318.79 , 14.11 , 45,22:22:52
+"['ALT : ERORRR ', ' PRESSURE : ERORRRR ', ' TEMP : 49.88 ', ' BATERAI : 44']", ERORRR , ERORRRR , 49.88 , 44,22:22:52
+"['ALT : ERORRR ', ' PRESSURE : 286.98 ', ' TEMP : 86.7 ', ' BATERAI : 43']", ERORRR , 286.98 , 86.7 , 43,22:22:53
+"['ALT : 585.55 ', ' PRESSURE : ERORRRR ', ' TEMP : 51.45 ', ' BATERAI : 42']", 585.55 , ERORRRR , 51.45 , 42,22:22:53
+"['ALT : 625.5 ', ' PRESSURE : ERORRRR ', ' TEMP : 25.64 ', ' BATERAI : 41']", 625.5 , ERORRRR , 25.64 , 41,22:22:54
+"['ALT : 111.26 ', ' PRESSURE : 368.82 ', ' TEMP : 63.36 ', ' BATERAI : 40']", 111.26 , 368.82 , 63.36 , 40,22:22:54
+"['ALT : ERORRR ', ' PRESSURE : 92.88 ', ' TEMP : 8.53 ', ' BATERAI : 39']", ERORRR , 92.88 , 8.53 , 39,22:22:55
+"['ALT : 60.2 ', ' PRESSURE : 318.51 ', ' TEMP : 61.37 ', ' BATERAI : 38']", 60.2 , 318.51 , 61.37 , 38,22:22:55
+"['ALT : 328.09 ', ' PRESSURE : 21.58 ', ' TEMP : 81.32 ', ' BATERAI : 37']", 328.09 , 21.58 , 81.32 , 37,22:22:56
+"['ALT : 127.94 ', ' PRESSURE : 37.5 ', ' TEMP : 82.08 ', ' BATERAI : 36']", 127.94 , 37.5 , 82.08 , 36,22:22:56
+"['ALT : 483.17 ', ' PRESSURE : 73.21 ', ' TEMP : 29.69 ', ' BATERAI : 35']", 483.17 , 73.21 , 29.69 , 35,22:22:57
+"['ALT : 90.7 ', ' PRESSURE : 235.96 ', ' TEMP : 17.28 ', ' BATERAI : 34']", 90.7 , 235.96 , 17.28 , 34,22:22:57
+"['ALT : 175.48 ', ' PRESSURE : 74.87 ', ' TEMP : 76.14 ', ' BATERAI : 33']", 175.48 , 74.87 , 76.14 , 33,22:22:58
+"['ALT : 305.24 ', ' PRESSURE : 108.75 ', ' TEMP : 62.54 ', ' BATERAI : 32']", 305.24 , 108.75 , 62.54 , 32,22:22:58
+"['ALT : 656.89 ', ' PRESSURE : ERORRRR ', ' TEMP : 15.66 ', ' BATERAI : 31']", 656.89 , ERORRRR , 15.66 , 31,22:22:59
+"['ALT : 470.28 ', ' PRESSURE : 54.29 ', ' TEMP : 19.9 ', ' BATERAI : 30']", 470.28 , 54.29 , 19.9 , 30,22:22:59
+"['ALT : 417.37 ', ' PRESSURE : ERORRRR ', ' TEMP : 13.72 ', ' BATERAI : 29']", 417.37 , ERORRRR , 13.72 , 29,22:22:00
+"['ALT : 580.23 ', ' PRESSURE : 109.78 ', ' TEMP : 79.32 ', ' BATERAI : 28']", 580.23 , 109.78 , 79.32 , 28,22:22:00
+"['ALT : 533.5 ', ' PRESSURE : 383.18 ', ' TEMP : 66.08 ', ' BATERAI : 27']", 533.5 , 383.18 , 66.08 , 27,22:22:01
+"['ALT : 109.92 ', ' PRESSURE : 144.55 ', ' TEMP : 65.96 ', ' BATERAI : 26']", 109.92 , 144.55 , 65.96 , 26,22:22:01
+"['ALT : ERORRR ', ' PRESSURE : 260.84 ', ' TEMP : 57.93 ', ' BATERAI : 25']", ERORRR , 260.84 , 57.93 , 25,22:22:02
+"['ALT : 21.88 ', ' PRESSURE : 351.69 ', ' TEMP : 16.69 ', ' BATERAI : 24']", 21.88 , 351.69 , 16.69 , 24,22:22:02
+"['ALT : 323.93 ', ' PRESSURE : 280.33 ', ' TEMP : 0.05 ', ' BATERAI : 23']", 323.93 , 280.33 , 0.05 , 23,22:22:03
+"['ALT : ERORRR ', ' PRESSURE : 64.16 ', ' TEMP : 20.25 ', ' BATERAI : 22']", ERORRR , 64.16 , 20.25 , 22,22:22:03
+"['ALT : 577.2 ', ' PRESSURE : ERORRRR ', ' TEMP : 62.38 ', ' BATERAI : 21']", 577.2 , ERORRRR , 62.38 , 21,22:22:04
+"['ALT : ERORRR ', ' PRESSURE : 167.35 ', ' TEMP : 3.06 ', ' BATERAI : 20']", ERORRR , 167.35 , 3.06 , 20,22:22:04
+"['ALT : 205.66 ', ' PRESSURE : 337.61 ', ' TEMP : 84.75 ', ' BATERAI : 19']", 205.66 , 337.61 , 84.75 , 19,22:22:05
+"['ALT : 318.18 ', ' PRESSURE : 209.14 ', ' TEMP : 41.24 ', ' BATERAI : 18']", 318.18 , 209.14 , 41.24 , 18,22:22:05
+"['ALT : 422.1 ', ' PRESSURE : ERORRRR ', ' TEMP : 85.33 ', ' BATERAI : 17']", 422.1 , ERORRRR , 85.33 , 17,22:22:06
+"['ALT : 403.37 ', ' PRESSURE : ERORRRR ', ' TEMP : 51.08 ', ' BATERAI : 16']", 403.37 , ERORRRR , 51.08 , 16,22:22:06
+"['ALT : 691.05 ', ' PRESSURE : 5.66 ', ' TEMP : 84.11 ', ' BATERAI : 15']", 691.05 , 5.66 , 84.11 , 15,22:22:07
+"['ALT : ERORRR ', ' PRESSURE : 352.22 ', ' TEMP : 13.89 ', ' BATERAI : 14']", ERORRR , 352.22 , 13.89 , 14,22:22:07
+"['ALT : 24.97 ', ' PRESSURE : 235.28 ', ' TEMP : 68.5 ', ' BATERAI : 13']", 24.97 , 235.28 , 68.5 , 13,22:22:08
+"['ALT : 356.81 ', ' PRESSURE : 300.65 ', ' TEMP : 46.37 ', ' BATERAI : 12']", 356.81 , 300.65 , 46.37 , 12,22:22:08
+"['ALT : 157.53 ', ' PRESSURE : ERORRRR ', ' TEMP : 44.12 ', ' BATERAI : 11']", 157.53 , ERORRRR , 44.12 , 11,22:22:09
+"['ALT : 21.5 ', ' PRESSURE : 374.18 ', ' TEMP : 33.05 ', ' BATERAI : 10']", 21.5 , 374.18 , 33.05 , 10,22:22:09
+"['ALT : 90.95 ', ' PRESSURE : 228.7 ', ' TEMP : 57.83 ', ' BATERAI : 9']", 90.95 , 228.7 , 57.83 , 9,22:22:10
+"['ALT : 372.27 ', ' PRESSURE : 301.64 ', ' TEMP : 84.59 ', ' BATERAI : 8']", 372.27 , 301.64 , 84.59 , 8,22:22:10
+"['ALT : 260.82 ', ' PRESSURE : 336.95 ', ' TEMP : 3.8 ', ' BATERAI : 7']", 260.82 , 336.95 , 3.8 , 7,22:22:11
+"['ALT : 591.02 ', ' PRESSURE : ERORRRR ', ' TEMP : 11.78 ', ' BATERAI : 6']", 591.02 , ERORRRR , 11.78 , 6,22:22:11
+"['ALT : ERORRR ', ' PRESSURE : ERORRRR ', ' TEMP : 5.25 ', ' BATERAI : 5']", ERORRR , ERORRRR , 5.25 , 5,22:22:12
+"['ALT : 472.92 ', ' PRESSURE : 349.55 ', ' TEMP : 40.73 ', ' BATERAI : 4']", 472.92 , 349.55 , 40.73 , 4,22:22:12
+"['ALT : 414.53 ', ' PRESSURE : 73.21 ', ' TEMP : 47.21 ', ' BATERAI : 3']", 414.53 , 73.21 , 47.21 , 3,22:22:13
+"['ALT : 545.79 ', ' PRESSURE : 168.61 ', ' TEMP : 62.54 ', ' BATERAI : 2']", 545.79 , 168.61 , 62.54 , 2,22:22:13
+"['ALT : ERORRR ', ' PRESSURE : 98.85 ', ' TEMP : 5.79 ', ' BATERAI : 1']", ERORRR , 98.85 , 5.79 , 1,22:22:14
+Timestamp,Altitude,Pressure,Baterai
+"['ALT : 557.36 ', ' PRESSURE : 131.01 ', ' TEMP : 70.69 ', ' BATERAI : 99']", 557.36 , 131.01 , 70.69 , 99,22:22:43
+"['ALT : 625.47 ', ' PRESSURE : 362.52 ', ' TEMP : 82.09 ', ' BATERAI : 98']", 625.47 , 362.52 , 82.09 , 98,22:22:44
+"['ALT : ERORRR ', ' PRESSURE : ERORRRR ', ' TEMP : 4.96 ', ' BATERAI : 97']", ERORRR , ERORRRR , 4.96 , 97,22:22:44
+"['ALT : 572.58 ', ' PRESSURE : 38.36 ', ' TEMP : 52.89 ', ' BATERAI : 96']", 572.58 , 38.36 , 52.89 , 96,22:22:45
+"['ALT : 675.37 ', ' PRESSURE : 343.9 ', ' TEMP : 71.46 ', ' BATERAI : 95']", 675.37 , 343.9 , 71.46 , 95,22:22:45
+"['ALT : ERORRR ', ' PRESSURE : ERORRRR ', ' TEMP : 65.24 ', ' BATERAI : 94']", ERORRR , ERORRRR , 65.24 , 94,22:22:46
+"['ALT : 292.44 ', ' PRESSURE : ERORRRR ', ' TEMP : 50.86 ', ' BATERAI : 93']", 292.44 , ERORRRR , 50.86 , 93,22:22:46
+"['ALT : 447.77 ', ' PRESSURE : 72.34 ', ' TEMP : 65.85 ', ' BATERAI : 92']", 447.77 , 72.34 , 65.85 , 92,22:22:47
+"['ALT : 366.99 ', ' PRESSURE : 9.93 ', ' TEMP : 58.05 ', ' BATERAI : 91']", 366.99 , 9.93 , 58.05 , 91,22:22:47
+"['ALT : 634.44 ', ' PRESSURE : ERORRRR ', ' TEMP : 50.44 ', ' BATERAI : 90']", 634.44 , ERORRRR , 50.44 , 90,22:22:48
+"['ALT : 391.73 ', ' PRESSURE : 74.97 ', ' TEMP : 39.28 ', ' BATERAI : 89']", 391.73 , 74.97 , 39.28 , 89,22:22:48
+"['ALT : 5.65 ', ' PRESSURE : 12.63 ', ' TEMP : 25.5 ', ' BATERAI : 88']", 5.65 , 12.63 , 25.5 , 88,22:22:49
+Timestamp,Altitude,Pressure,Baterai
+"['ALT : 512.21 ', ' PRESSURE : ERORRRR ', ' TEMP : 56.83 ', ' BATERAI : 99']", 512.21 , ERORRRR , 56.83 , 99,22:22:01
+"['ALT : 690.26 ', ' PRESSURE : 324.33 ', ' TEMP : 60.93 ', ' BATERAI : 98']", 690.26 , 324.33 , 60.93 , 98,22:22:02
+"['ALT : 397.9 ', ' PRESSURE : 382.02 ', ' TEMP : 11.03 ', ' BATERAI : 97']", 397.9 , 382.02 , 11.03 , 97,22:22:02
+"['ALT : ERORRR ', ' PRESSURE : 287.26 ', ' TEMP : 53.48 ', ' BATERAI : 96']", ERORRR , 287.26 , 53.48 , 96,22:22:03
+"['ALT : 645.36 ', ' PRESSURE : 23.96 ', ' TEMP : 23.85 ', ' BATERAI : 95']", 645.36 , 23.96 , 23.85 , 95,22:22:03
+"['ALT : 186.28 ', ' PRESSURE : 99.07 ', ' TEMP : 40.79 ', ' BATERAI : 94']", 186.28 , 99.07 , 40.79 , 94,22:22:04
+"['ALT : 220.02 ', ' PRESSURE : 235.26 ', ' TEMP : 88.1 ', ' BATERAI : 93']", 220.02 , 235.26 , 88.1 , 93,22:22:04
+"['ALT : 311.75 ', ' PRESSURE : 53.68 ', ' TEMP : 34.72 ', ' BATERAI : 92']", 311.75 , 53.68 , 34.72 , 92,22:22:05
+"['ALT : ERORRR ', ' PRESSURE : ERORRRR ', ' TEMP : 29.7 ', ' BATERAI : 91']", ERORRR , ERORRRR , 29.7 , 91,22:22:05
+"['ALT : 234.13 ', ' PRESSURE : 99.21 ', ' TEMP : 17.89 ', ' BATERAI : 90']", 234.13 , 99.21 , 17.89 , 90,22:22:06
+"['ALT : 643.99 ', ' PRESSURE : 89.29 ', ' TEMP : 52.12 ', ' BATERAI : 89']", 643.99 , 89.29 , 52.12 , 89,22:22:06
+"['ALT : 183.9 ', ' PRESSURE : 210.29 ', ' TEMP : 0.74 ', ' BATERAI : 88']", 183.9 , 210.29 , 0.74 , 88,22:22:07
+"['ALT : 468.84 ', ' PRESSURE : 3.95 ', ' TEMP : 4.03 ', ' BATERAI : 87']", 468.84 , 3.95 , 4.03 , 87,22:22:07
+"['ALT : ERORRR ', ' PRESSURE : ERORRRR ', ' TEMP : 72.01 ', ' BATERAI : 86']", ERORRR , ERORRRR , 72.01 , 86,22:22:08
+"['ALT : 212.47 ', ' PRESSURE : 206.73 ', ' TEMP : 0.09 ', ' BATERAI : 85']", 212.47 , 206.73 , 0.09 , 85,22:22:08
+"['ALT : 578.49 ', ' PRESSURE : ERORRRR ', ' TEMP : 37.83 ', ' BATERAI : 84']", 578.49 , ERORRRR , 37.83 , 84,22:22:09
+"['ALT : 484.28 ', ' PRESSURE : 245.72 ', ' TEMP : 6.56 ', ' BATERAI : 83']", 484.28 , 245.72 , 6.56 , 83,22:22:09
+"['ALT : 121.39 ', ' PRESSURE : ERORRRR ', ' TEMP : 53.34 ', ' BATERAI : 82']", 121.39 , ERORRRR , 53.34 , 82,22:22:10
+"['ALT : ERORRR ', ' PRESSURE : ERORRRR ', ' TEMP : 8.41 ', ' BATERAI : 81']", ERORRR , ERORRRR , 8.41 , 81,22:22:10
+"['ALT : 170.94 ', ' PRESSURE : ERORRRR ', ' TEMP : 44.54 ', ' BATERAI : 80']", 170.94 , ERORRRR , 44.54 , 80,22:22:11
+"['ALT : ERORRR ', ' PRESSURE : 191.44 ', ' TEMP : 40.41 ', ' BATERAI : 79']", ERORRR , 191.44 , 40.41 , 79,22:22:11
+"['ALT : 246.08 ', ' PRESSURE : ERORRRR ', ' TEMP : 25.77 ', ' BATERAI : 78']", 246.08 , ERORRRR , 25.77 , 78,22:22:12
+"['ALT : 265.76 ', ' PRESSURE : 272.91 ', ' TEMP : 39.45 ', ' BATERAI : 77']", 265.76 , 272.91 , 39.45 , 77,22:22:12
